@@ -17,7 +17,7 @@
 
 ## TODO
 
-1. Extensive type support and implicit validators.                                                                                                                                                                                                                                                                                                                                                                    b v bgds????????????????????????????????KJ:isAlphanumeric
+1. Extensive type support and implicit validators. 
 1. Usage documentation.
 1. Integrate `validator`.
 1. Guess header row.
@@ -25,3 +25,4 @@
 1. min,max support for number type
 1. Add full test suite.
 1. Make provision for using this in browser as well.
+1. Command line execution option to generate csv from json (Low Prioirity)
