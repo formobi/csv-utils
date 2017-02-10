@@ -26,3 +26,6 @@
 1. Add full test suite.
 1. Make provision for using this in browser as well.
 1. Command line execution option to generate csv from json (Low Prioirity)
+1. Add support for nested paths.
+~                                                                                                                                                                                      
+~                                                
